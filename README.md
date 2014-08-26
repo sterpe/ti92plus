@@ -3,6 +3,8 @@ ti92plus
 
 Fixes the mixed up unicode encoding of the extended character sets provided by Ti92Pluspc.ttf.
 
+Ti92Pluspc is very similar to Menlo.
+
 ####Disclaimer:####
 
 To my knowledge Ti92Pluspc.ttf is shareware.
